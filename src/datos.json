@@ -1,0 +1,34 @@
+{
+    "tareasJson":[
+        {
+            "titulo":"Task 1",
+            "responsable":"Roberto",
+            "descripcion":"desc1",
+            "prioridad":"Medio"
+        },
+        {
+            "titulo":"Task 2",
+            "responsable":"Pedro",
+            "descripcion":"desc2",
+            "prioridad":"Bajo"
+        },
+        {
+            "titulo":"Task 3",
+            "responsable":"Juan",
+            "descripcion":"desc3",
+            "prioridad":"Bajo"
+        },
+        {
+            "titulo":"Task 4",
+            "responsable":"Roberto",
+            "descripcion":"desc3",
+            "prioridad":"Medio"
+        },
+        {
+            "titulo":"Task 5",
+            "responsable":"Roberto",
+            "descripcion":"desc3",
+            "prioridad":"Medio"
+        }
+    ]
+}
